@@ -1,0 +1,15 @@
+{
+    "name": "illium",
+    "symbol": "ILLI",
+    "description": "The new Light- The illium",
+    "image": "https://raw.githubusercontent.com/manaf-av/Crypto1/main/logo.png",
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/manaf-av/Crypto1/main/logo.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
