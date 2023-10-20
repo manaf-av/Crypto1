@@ -1,7 +1,8 @@
+
 {
-    "name": "illium",
-    "symbol": "ILLI",
-    "description": "The illium Token",
-    "image": "https://raw.githubusercontent.com/manaf-av/Crypto1/main/logo.png"
-  }
-  
+  "name": "illium",
+  "symbol": "ILLI",
+  "uri": "https://raw.githubusercontent.com/manaf-av/Crypto1/main/logo.png",
+  "seller_fee_basis_points": 0,
+  "creators": null
+}
